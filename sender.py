@@ -34,8 +34,8 @@ def user_input_loop():
         if user_input.lower() == 'exit':
             break
         random_thread = random.choice(threads)
-        random_thread.args = (sender_name, user_input)
-        random_thread.run()
+        message_thread = threading.Thread(target=send_message, args=(sender_name, user_input))
+        message_thread.start()
 
 user_input_thread = threading.Thread(target=user_input_loop)
 user_input_thread.start()
