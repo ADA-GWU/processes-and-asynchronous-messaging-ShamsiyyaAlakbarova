@@ -42,7 +42,7 @@ reader_thread = threading.Thread(target=read_available_messages, args=(sender_na
 reader_thread.start()
 
 # Allow the thread to run, but add an option to stop it
-print("Press 'q' and Enter to stop the receiver.")
+print("Press 'q' and Enter to stop the reader.")
 while not terminate_reader:
     user_input = input()
     if user_input.lower() == 'q':
