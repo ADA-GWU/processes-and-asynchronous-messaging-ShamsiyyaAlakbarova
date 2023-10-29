@@ -75,7 +75,7 @@ def read_available_messages(sender_name, conn):
             print(f"Error: {e}")
 
 # Define the list of database server IPs here
-db_server_ips = ['127.0.0.1', '192.168.0.108']
+db_server_ips = ['127.0.0.1', '192.168.0.173']
 connections = []
 
 # Create connections to each database server
