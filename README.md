@@ -4,7 +4,7 @@
 <p>Before you can use this application, you will need to ensure that you have Python installed on your system. If you don't have Python installed, you can visit the official Python website at https://www.python.org/, and download for your OS.</p>
 
 
-<h2>2.Set Up Environment (via Git command).</h2>
+<h2>2.Set Up Environment if needed (via Git command).</h2>
 <p>Step 1. Create folder on your desktop. Name it as you wish. For example, "test".<br>
 Step 2. Go to my github repository (https://github.com/ADA-GWU/processes-and-asynchronous-messaging-ShamsiyyaAlakbarova). <br>
 Step 3. Press to green CODE button, and copy HTTPS link (https://github.com/ADA-GWU/processes-and-asynchronous-messaging-ShamsiyyaAlakbarova.git).<br>
