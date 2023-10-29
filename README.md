@@ -29,5 +29,4 @@ After running this commands, you will see this outputs: First terminal's output:
 ". It means, that it waits for your message input. Second terminal's output: "Reader is listening...
 Press 'q' and Enter to stop the reader."<br>
 Step 4. Write an input (some message) in sender terminal. For example: hello.<br>
-After your entered an input you should go to reader terminal and press "Enter". After you will be able to see output in reader terminal. In "hello" case the output will be: "Sender Shamsiyya sent "hello" at time 2023-10-29 13:38:40"<br>
-Step 5. If we check our database, we will see that this record is saved there.<br></p>
+After your entered an input you should go to reader terminal and press "Enter". After you will be able to see output in reader terminal. In "hello" case the output will be: "Sender Shamsiyya sent "hello" at time 2023-10-29 13:38:40"<br></p>
